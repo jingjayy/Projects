@@ -1,0 +1,742 @@
+﻿Employment_Type,Row_Index,job_title,comp_name,total_applicants,industry,Hours_Worked_Per_Week,Productivity_Score,Well_Being_Score
+On-site,1,Data Analyst,PVAR SERVICES,200,.,45,49,47
+On-site,2,Data Analyst,Timeline Freight Brokers,8,.,48,66,58
+On-site,3,Data Analyst,airtel,200,Telecommunications,40,59,57
+On-site,4,Shopify Developer,Digital Impressions,2,.,47,76,66
+On-site,5,Data Analyst,ReNew Power,111,Renewable Energy Semiconductor Manufacturing,58,73,68
+On-site,6,Other,Escalent,36,Market Research,37,52,64
+On-site,7,Data Analyst,Mobile Programming LLC,44,.,45,58,62
+On-site,8,Data Analyst,Mobile Programming LLC,13,.,44,56,54
+On-site,9,Other Developer,Eclatprime Digital,2,.,44,59,16
+On-site,10,Other Developer,Experis India,0,.,57,75,54
+On-site,11,Other Developer,Tata Consultancy Services,14,IT Services and IT Consulting,45,53,85
+On-site,12,Other Developer,Fire Bee Techno Services Pvt Ltd,2,.,56,66,75
+On-site,13,Lead developer,Elfonze Technologies,5,IT Services and IT Consulting,46,51,53
+On-site,14,Salesforce Developer,Genpact,85,IT Services and IT Consulting,45,60,56
+On-site,15,Other,GenXHire Services Private Limited,0,.,44,64,60
+On-site,16,Data Analyst,WUElev8 - Where yoU Elevate,2,.,38,57,40
+On-site,17,Data Analyst,Ashling Partners,97,IT Services and IT Consulting,42,64,44
+On-site,18,Other Developer,Sureminds Solutions Private Limited,2,.,41,80,69
+On-site,19,Data Analyst,Tata Consultancy Services,42,IT Services and IT Consulting,39,49,55
+On-site,20,Other Developer,PSI CRO AG,1,Pharmaceutical Manufacturing,48,84,72
+On-site,21,Database Developer,TIGI HR ®,11,.,55,47,66
+On-site,22,Data Analyst,Tata Consultancy Services,11,IT Services and IT Consulting,47,57,66
+On-site,23,Data Analyst,OptimHire,27,.,52,42,67
+On-site,24,PHP Developer,Chris Johnson Business IT Solutions,0,.,30,55,84
+On-site,25,Java Developer,Mobile Programming LLC,3,.,41,53,57
+On-site,26,Other Developer,KRG Technologies Inc.,0,.,53,83,58
+On-site,27,Other Engineering,The Briminc,0,.,37,85,83
+On-site,28,Other Developer,Consulting Pandits,5,.,44,68,81
+On-site,29,Software Engineer,HR PLACEMENT CONSULTANTS (HRPC),3,Staffing and Recruiting,46,71,81
+On-site,30,Other Developer,"Stralynn Consulting Services, Inc",4,IT Services and IT Consulting,35,68,97
+On-site,31,Other Developer,Billiton Services Pvt Ltd,2,.,33,64,69
+On-site,32,Data Analyst,Affine,50,Business Consulting and Services,52,84,41
+On-site,33,Other Developer,Virtusa,7,IT Services and IT Consulting,45,52,49
+On-site,34,Data Analyst,Tata Consultancy Services,32,IT Services and IT Consulting,51,71,94
+On-site,35,Database Developer,AaNeel-India,10,.,36,77,77
+On-site,36,Data Analyst,Tata Consultancy Services,95,IT Services and IT Consulting,39,75,65
+On-site,37,Data Analyst,Tata Consultancy Services,40,IT Services and IT Consulting,43,56,49
+On-site,38,Other,Synczi,2,.,40,57,76
+On-site,39,SQL Developer,Sreeb Technologies,138,.,45,63,65
+On-site,40,Database Developer,TEBillion,2,.,49,72,45
+On-site,41,Angular Developer,Jukshio,17,.,43,76,73
+On-site,42,SQL Developer,Stemmons Business Services Pvt. Ltd.,17,.,45,83,45
+On-site,43,Python Developer,HTC Global Services,78,IT Services and IT Consulting,41,70,50
+On-site,44,Oracle Developer,Apidel Technologies,6,.,46,61,65
+On-site,45,DevOps Engineer,Tanishi Consultants Pvt. Ltd.,15,.,40,53,63
+On-site,46,Data Analyst,Tata Consultancy Services,18,IT Services and IT Consulting,47,70,66
+On-site,47,Other,LTIMindtree,18,Information Technology & Services,40,66,65
+On-site,48,Software Testing,TechStar Group,8,.,45,44,62
+On-site,49,Power BI Developer,OnPoint Insights,149,IT Services and IT Consulting,58,61,49
+On-site,50,Other Developer,AIXTOR Technologies,2,.,47,68,77
+On-site,51,Blockchain Developer,Codezeros,18,.,37,72,68
+On-site,52,Other Developer,ALTOS Technologies Kochi,9,.,44,68,75
+On-site,53,Other Developer,Synechron,9,Financial Services,50,53,72
+On-site,54,Data Analyst,Mobile Programming LLC,5,.,44,65,61
+On-site,55,Other Developer,Nice Software Solutions Pvt. Ltd.,10,IT Services and IT Consulting,44,76,58
+On-site,56,Data Analyst,Sutherland,57,IT Services and IT Consulting,38,61,62
+On-site,57,Database Developer,Hirenture,2,.,44,70,72
+On-site,58,Salesforce Developer,Oloop Technology Solutions,135,IT Services and IT Consulting,52,75,73
+On-site,59,Machine Learning Engineer,LYFnGO,17,.,43,59,64
+On-site,60,Data Analyst,Verisk,200,Information Services,50,62,75
+On-site,61,Game Developer,CareerLoop,15,.,53,55,47
+On-site,62,Mainframe Developer,Enterprise Solutions Inc.,13,.,44,68,52
+On-site,63,Analyst,TechnoScience (Domnic Lewis International LLC),25,.,53,69,60
+On-site,64,Unity Developer,Inferenz,5,.,36,51,64
+On-site,65,Business Analyst,Delta Air Lines,200,Airlines and Aviation,64,88,57
+On-site,66,Other Developer,arodek,3,.,35,47,50
+On-site,67,Angular Developer,Pretorius Staffing Solutions,0,.,48,69,76
+On-site,68,DevOps Engineer,AfflatusHR Services Pvt. Ltd.,0,Human Resources,40,44,62
+On-site,69,Cloud Engineer,Growel Softech Ltd,23,IT Services and IT Consulting,44,61,39
+On-site,70,Other Developer,Tata Consultancy Services,11,IT Services and IT Consulting,40,70,64
+On-site,71,Other Developer,"Param Consulting Services, Inc.",6,.,31,66,81
+On-site,72,Linux Engineer,Vehant Technologies,29,.,52,60,49
+On-site,73,Other Developer,Tata Consultancy Services,8,IT Services and IT Consulting,44,56,72
+On-site,74,Other Developer,Infinity Quest,3,.,46,65,45
+On-site,75,.Net Developers,Mobile Programming LLC,4,IT Services and IT Consulting,51,60,48
+On-site,76,Other Developer,BigLynx Inc,13,Software Development,40,47,67
+On-site,77,Data Analyst,Tata Consultancy Services,200,IT Services and IT Consulting,34,52,28
+On-site,78,Other Developer,Tata Consultancy Services,9,IT Services and IT Consulting,45,45,69
+On-site,79,Other Developer,Photon,6,IT Services and IT Consulting,39,65,41
+On-site,80,Drupal Developer,MyGov India,19,Government Administration,34,61,58
+On-site,81,Data Analyst,Tata Consultancy Services,175,IT Services and IT Consulting,42,53,54
+On-site,82,Mainframe Developer,TEKsystems,35,.,36,55,54
+On-site,83,DevOps Engineer,Sequence Technologies,34,.,47,77,43
+On-site,84,Software Engineer,Changeleaders.in,5,Human Resources Services,48,57,57
+On-site,85,Python Developer,Gleecus TechLabs Inc.,17,.,43,61,49
+On-site,86,BackEnd Developer,smartData Enterprises Inc.,2,.,38,50,48
+On-site,87,BackEnd Developer,Opportunity One Step Solutions Private Limited,11,.,52,74,63
+On-site,88,Other Engineering,INNOX STRUCTURAL SYSTEM Pvt Ltd,24,.,35,63,64
+On-site,89,Other Developer,Antal International,11,.,44,70,27
+On-site,90,.Net Developers,HukamBoss,1,.,33,61,75
+On-site,91,Other Developer,Intelligence Infotech,0,.,53,72,66
+On-site,92,Software Engineer,Infiniti Research Ltd.,2,Market Research,43,78,38
+On-site,93,Other Developer,Enlink Managed Services,0,.,48,57,38
+On-site,94,Other Developer,Bista Solutions Human Resources,1,.,46,75,47
+On-site,95,Business Analyst,Amplifi Capital,9,Financial Services,50,72,60
+On-site,96,PHP Developer,Nexevo Technologies,9,.,42,74,68
+On-site,97,Ruby on Rails Developer,Dharnak Blogs,3,.,48,59,50
+On-site,98,Internships,Bitwork Labs,3,.,38,68,61
+On-site,99,Wordpress Developer,Albedous Infosystem Pvt Ltd,5,.,47,66,67
+On-site,100,BackEnd Developer,Redian Software Global,4,.,53,70,44
+On-site,101,Analyst,Flexera,200,Software Development,40,48,52
+On-site,102,Software Testing,Tata Consultancy Services,0,IT Services and IT Consulting,54,68,47
+On-site,103,Other Developer,Qualihires- Recruiting Experts Worldwide,7,.,36,70,19
+On-site,104,C Developer,Catalyst IT,16,.,41,60,69
+On-site,105,Other Developer,NOVATEK,0,.,45,50,45
+On-site,106,C Developer,AVPL CONSULTING,3,.,40,74,67
+On-site,107,Game Developer,Brane Enterprises Pvt Ltd,9,Software Development,46,72,35
+On-site,108,.Net Developers,JISA Softech Private Limited,5,.,47,66,44
+On-site,109,Ruby on Rails Developer,Qodequay Technologies Pvt. Ltd.,8,.,46,79,66
+On-site,110,Other Developer,Mobigic Technologies Private Limited,0,.,50,62,71
+On-site,111,Other,Kritsnam Technologies,0,IT Services and IT Consulting,46,55,64
+On-site,112,Mobile Application Developer,Vrinsoft Technology Pvt. Ltd.,6,.,46,53,75
+On-site,113,Associate,Foundation for Neglected Disease Research,0,.,42,44,54
+On-site,114,Researcher,Foundation for Neglected Disease Research,0,.,43,71,49
+On-site,115,Data Analyst,Launch India,0,Information Technology & Services,55,45,79
+On-site,116,SQL Developer,Growel Softech Ltd,9,IT Services and IT Consulting,43,73,61
+On-site,117,Data Analyst,"Giant Eagle, Inc.",200,Retail Groceries,51,61,43
+On-site,118,Data Analyst,Target,200,Retail,53,63,63
+On-site,119,PHP Developer,Sri Sri Wellbeing,0,.,52,54,68
+On-site,120,Data Analyst,NMS Consultants,23,.,41,63,61
+On-site,121,SQL Developer,Tata Consultancy Services,0,IT Services and IT Consulting,50,64,63
+On-site,122,Shopify Developer,IWEBCODE,2,.,43,78,56
+On-site,123,Data Analyst,Freshworks,200,Software Development,54,49,84
+On-site,124,Shopify Developer,Distacart,0,.,44,74,63
+On-site,125,Other,Phygital Insights,0,.,44,68,73
+On-site,126,Salesforce Developer,SCREATIVES SOFTWARE SERVICES PVT. LTD,3,.,47,68,37
+On-site,127,Other Developer,Universal Software,5,.,42,58,61
+On-site,128,Other Developer,Wipro,59,IT Services and IT Consulting,45,69,55
+On-site,129,SQL Developer,Tata Consultancy Services,102,IT Services and IT Consulting,40,49,57
+On-site,130,Other,Tata Consultancy Services,143,IT Services and IT Consulting,41,56,51
+On-site,131,Snowflake Developer,LTIMindtree,61,Information Technology & Services,42,68,95
+On-site,132,Other Developer,Teamlease.com,11,.,40,60,59
+On-site,133,PowerApps Developer,TEKsystems,47,Information Technology & Services,51,49,14
+On-site,134,Data Analyst,Epsilon India,0,Advertising Services,48,67,43
+On-site,135,Salesforce Developer,Injazat,0,Information Technology & Services,39,55,61
+On-site,136,Other,Wipro,200,IT Services and IT Consulting,41,69,17
+On-site,137,Angular Developer,Tata Consultancy Services,150,IT Services and IT Consulting,41,72,32
+On-site,138,SQL Developer,Tata Consultancy Services,95,IT Services and IT Consulting,42,68,32
+On-site,139,Data Analyst,Maven Workforce Inc.,0,Staffing and Recruiting,52,51,67
+On-site,140,Golang Developer,GenXHire Services Private Limited,2,Human Resources Services,56,69,64
+On-site,141,Data Analyst,Pure Storage,200,IT Services and IT Consulting,45,49,80
+On-site,142,Python Developer,insureka,53,.,41,70,36
+On-site,143,Other Developer,IDESLABS PRIVATE LIMITED,9,IT Services and IT Consulting,53,64,32
+On-site,144,Salesforce Developer,Gojoko Technologies,15,Financial Services,38,67,75
+On-site,145,Shopify Developer,Budventure Technologies Pvt. Ltd.,5,.,47,67,30
+On-site,146,SQL Developer,Tata Consultancy Services,99,IT Services and IT Consulting,38,74,58
+On-site,147,Data Analyst,Jobs for Humanity,0,Non-profit Organizations,41,51,43
+On-site,148,Shopify Developer,Parkhya Solutions Pvt. Ltd.,8,.,32,63,51
+On-site,149,Golang Developer,Antino,3,.,50,57,63
+On-site,150,Other Developer,AGSuite Technologies,3,.,35,54,61
+On-site,151,Other Developer,True Talents Consulting Pvt. Ltd,4,.,39,57,53
+On-site,152,Other Engineering,Growel Softech Ltd,9,IT Services and IT Consulting,37,49,50
+On-site,153,Node Js Developer,Tata Consultancy Services,112,IT Services and IT Consulting,49,63,53
+On-site,154,Data Analyst,Alp Consulting Ltd.,80,Human Resources Services,45,47,67
+On-site,155,Other Developer,MI-GSO | PCUBED,8,Business Consulting and Services,47,60,75
+On-site,156,Data Analyst,iQuest Management Consultants,0,.,38,76,62
+On-site,157,Other Developer,Hexr Factory,5,.,52,54,48
+On-site,158,Angular Developer,Tata Consultancy Services,40,IT Services and IT Consulting,38,72,62
+On-site,159,.Net Developers,Tata Consultancy Services,57,IT Services and IT Consulting,51,58,60
+On-site,160,Other,KWK Consultancy,4,.,44,49,45
+On-site,161,Data Analyst,Enfusion,67,Financial Services,43,48,66
+On-site,162,Data Analyst,Tata Consultancy Services,74,IT Services and IT Consulting,49,67,55
+On-site,163,Node Js Developer,Tata Consultancy Services,134,IT Services and IT Consulting,48,71,64
+On-site,164,SQL Developer,BioUrja Group,98,Oil and Gas,40,67,77
+On-site,165,Java Developer,"Sunera Technologies, Inc. (SuneraTech)",3,.,34,59,43
+On-site,166,Node Js Developer,Tata Consultancy Services,0,IT Services and IT Consulting,45,74,69
+On-site,167,Data Analyst,Fruges IT Services India Private Ltd,0,.,40,66,50
+On-site,168,Other Developer,Hari Manpower Solutions,27,.,45,70,67
+On-site,169,Java Developer,ESSENWARE PRIVATE LIMITED,1,Information Technology & Services,49,68,52
+On-site,170,Data Analyst,Fruges IT Services India Private Ltd,2,.,47,75,46
+On-site,171,Data Analyst,iQuest Management Consultants,17,.,47,63,72
+On-site,172,Data Analyst,Fractal,200,Business Consulting and Services,50,58,59
+On-site,173,Data Analyst,Palladium: Make It Possible,52,Business Consulting and Services,48,67,30
+On-site,174,Other Developer,VHR Solutions Private Limited,6,.,39,66,52
+On-site,175,Accountant,Talent Incubator Solutions LLP,8,.,34,42,63
+On-site,176,Other Developer,AV People Kart Private Limited,3,.,52,62,54
+On-site,177,Node Js Developer,Skystis Infotech LLP,4,.,40,56,61
+On-site,178,Blockchain Developer,NetXD Inc.,6,.,47,79,52
+On-site,179,Other Developer,INVECAS,1,Semiconductors,52,67,42
+On-site,180,Data Analyst,Tata Consultancy Services,113,IT Services and IT Consulting,37,49,69
+On-site,181,Other,Zorba Consulting India,30,.,50,69,61
+On-site,182,Salesforce Developer,Tranzevo,200,.,48,60,71
+On-site,183,PowerApps Developer,CapActix Business Solutions,8,.,44,49,66
+On-site,184,.Net Developers,Tata Consultancy Services,2,IT Services and IT Consulting,41,73,60
+On-site,185,Other Developer,REDOQ LTD,25,.,40,75,27
+On-site,186,Other,ESSENWARE PRIVATE LIMITED,0,Information Technology & Services,37,55,39
+On-site,187,Lead developer,ValueMomentum,1,.,35,69,56
+On-site,188,Web Developer,Vipsa Talent Solutions,14,.,47,71,63
+On-site,189,.Net Developers,Talent Toppers,5,Staffing and Recruiting,51,59,45
+On-site,190,Other Engineering,Growel Softech Ltd,43,IT Services and IT Consulting,43,55,53
+On-site,191,Wordpress Developer,Webcotec Technology,24,.,42,75,67
+On-site,192,SQL Developer,Tata Consultancy Services,104,IT Services and IT Consulting,36,72,59
+On-site,193,Other,Tata Consultancy Services,23,IT Services and IT Consulting,41,66,74
+On-site,194,Analyst,Jobs for Humanity,1,Non-profit Organizations,48,56,71
+On-site,195,Data Analyst,Capgemini Invent,74,Business Consulting and Services,56,46,51
+On-site,196,DevOps Engineer,U-SET,3,.,39,67,71
+On-site,197,C Developer,BigBoon Technologies Private Limited,0,.,41,73,41
+On-site,198,Data Analyst,"LanceSoft, Inc.",25,.,43,73,51
+On-site,199,SQL Developer,OptimHire,80,.,40,62,42
+On-site,200,Other Developer,Right Move Staffing Solutions Private Limited,13,.,55,59,72
+On-site,201,Cloud Engineer,DAZN,47,Spectator Sports,46,55,59
+On-site,202,DevOps Engineer,Qualitest,6,IT Services and IT Consulting,51,74,53
+On-site,203,C Developer,Tata Consultancy Services,72,IT Services and IT Consulting,38,58,62
+On-site,204,SQL Developer,Servion Global Solutions,4,IT Services and IT Consulting,47,78,56
+On-site,205,Golang Developer,WhiteKolar Resourcing and Staffing,3,.,50,81,79
+On-site,206,Other Developer,ComUnus Technologies Pvt Ltd,6,.,38,62,54
+On-site,207,SQL Developer,Tata Consultancy Services,129,IT Services and IT Consulting,47,71,47
+On-site,208,Oracle Developer,Team 4 Progress Technologies,4,.,45,44,81
+On-site,209,Other Engineering,Mobile Programming LLC,36,.,41,65,55
+On-site,210,Java Developer,ESSENWARE PRIVATE LIMITED,1,Information Technology & Services,44,60,85
+On-site,211,BackEnd Developer,Shriem,6,.,39,72,65
+On-site,212,Business Analyst,Sterco Digitex Pvt Limited,21,.,37,44,17
+On-site,213,Business Analyst,Skyleaf Consultants LLP,30,.,49,66,56
+On-site,214,Business Analyst,1By2 Foods,17,.,53,71,84
+On-site,215,Business Analyst,IConflux Technologies Pvt Ltd,19,.,36,64,35
+On-site,216,Business Analyst,TALKMETAKEME Software Solutions Pvt. Ltd,36,.,43,62,69
+On-site,217,Business Analyst,TopGear Consultants Pvt Ltd,21,.,45,71,70
+On-site,218,Business Analyst,Infovision HR Consulting Services Pvt Ltd.,0,.,46,56,82
+On-site,219,Finance Manager,Meril,0,Medical Device,54,56,60
+On-site,220,Consultant,Luxoft,0,IT Services and IT Consulting,38,73,45
+On-site,221,Data Analyst,Live Connections,0,.,46,62,51
+On-site,222,Project Manager,PureCode Software,0,.,48,57,45
+On-site,223,Internships,Sufalam Technologies,0,.,36,60,58
+On-site,224,Software Testing,InfoStride,0,IT Services and IT Consulting,46,74,67
+On-site,225,Sales Executive,MenteeChain,0,.,43,63,67
+On-site,226,Associate,Epiq,0,Law Practice,52,66,52
+On-site,227,Project Manager,Mobile Premier League (MPL),0,Internet Publishing,44,58,68
+On-site,228,Business Development Manager,PloPdo,0,Professional Training and Coaching,44,88,77
+On-site,229,Consultant,Infosys Limited,0,IT Services and IT Consulting,49,66,75
+On-site,230,Technology Architecture,Siemens Digital Industries Software,0,Software Development,42,80,60
+On-site,231,Consultant,Egon Software Pvt. Ltd.,0,IT Services and IT Consulting,47,67,74
+On-site,232,Other Developer,Coditas,0,IT Services and IT Consulting,40,65,39
+On-site,233,Consultant,Mobile Programming LLC,0,IT Services and IT Consulting,49,70,67
+On-site,234,Cloud Engineer,Alp Consulting Ltd.,0,Human Resources Services,45,69,84
+On-site,235,Scrum Master,TJX Global IT - India,0,Technology Information and Internet,43,66,43
+On-site,236,Project Manager,CMA CGM Global Business Services (India),0,Maritime Transportation,41,67,37
+On-site,237,.Net Developers,BYD,0,Motor Vehicle Manufacturing,52,58,70
+On-site,238,Full Stack Developer,Saankhya Labs Pvt. Ltd.,0,Telecommunications,37,62,75
+On-site,239,Analyst,Tide,0,Financial Services,48,65,25
+On-site,240,Project Manager,Ezetap by Razorpay,0,Financial Services,38,33,64
+On-site,241,Project Manager,Bajaj Electricals Ltd,0,Computers and Electronics Manufacturing,61,61,70
+On-site,242,Other Engineering,Tata Consultancy Services,0,IT Services and IT Consulting,46,63,41
+On-site,243,Other Developer,InfoCepts,0,Business Consulting and Services,49,70,59
+On-site,244,PHP Developer,Tata Technologies,0,IT Services and IT Consulting,35,57,69
+On-site,245,Analyst,WNS,0,Outsourcing and Offshoring Consulting,33,71,47
+On-site,246,Web Developer,Neurones IT India,0,IT Services and IT Consulting,39,71,55
+On-site,247,Java Developer,Discoveries Quintessential,0,Professional Training and Coaching,44,64,63
+On-site,248,DevOps Engineer,Tata Consultancy Services,0,IT Services and IT Consulting,45,72,73
+On-site,249,Mainframe Developer,Luxoft,0,IT Services and IT Consulting,38,73,42
+On-site,250,Other Developer,Tata Consultancy Services,0,IT Services and IT Consulting,45,60,48
+On-site,251,Project Manager,Taylor & Francis Group,0,Book and Periodical Publishing,45,71,57
+On-site,252,Project Manager,Colliers,0,Real Estate,41,59,67
+On-site,253,Python Developer,Cradlepoint,0,Computer Networking Products,50,74,61
+On-site,254,C Developer,Persistent Systems,0,IT Services and IT Consulting,34,66,59
+On-site,255,Python Developer,BioUrja Group,0,Oil and Gas,47,58,74
+On-site,256,Project Manager,Wipro,0,IT Services and IT Consulting,47,71,52
+On-site,257,Quality Analyst,TEKsystems,51,Information Technology & Services,44,48,43
+On-site,258,PHP Developer,Infinite Computer Solutions,0,IT Services and IT Consulting,48,74,52
+On-site,259,Business Development Manager,Ant Creatives,0,.,41,78,72
+On-site,260,Business Analyst,Info Origin Inc.,0,.,45,52,63
+On-site,261,Business Analyst,NB Healthcare Technologies,0,IT Services and IT Consulting,52,81,64
+On-site,262,Business Analyst,Tata Consultancy Services,0,IT Services and IT Consulting,41,60,63
+On-site,263,Business Analyst,Qween Network LLP,0,Human Resources Services,37,63,76
+On-site,264,Business Analyst,UST,0,IT Services and IT Consulting,42,70,60
+On-site,265,Business Analyst,Brane Enterprises Pvt Ltd,0,Software Development,52,74,38
+On-site,266,Business Analyst,Tanla Platforms Limited,0,Technology Information and Internet,48,62,61
+On-site,267,Business Analyst,McFadyen Digital,0,IT Services and IT Consulting,40,82,75
+On-site,268,Business Analyst,SUN PHARMA,0,Pharmaceutical Manufacturing,40,51,54
+On-site,269,Business Analyst,"Expenzing- Sourcing, Procurement and Accounts Payable Transformed",0,.,49,74,64
+On-site,270,Business Analyst,Luxoft,0,IT Services and IT Consulting,44,70,55
+On-site,271,Business Analyst,WNS,0,Outsourcing and Offshoring Consulting,51,62,81
+On-site,272,Business Analyst,The Brihaspati Infotech Pvt. Ltd.,0,.,54,64,44
+On-site,273,Business Analyst,Cognitonic Systems,0,.,32,50,39
+On-site,274,Business Analyst,IDESLABS PRIVATE LIMITED,0,IT Services and IT Consulting,31,53,73
+On-site,275,Business Analyst,PlaySimple Games,0,Entertainment Providers,49,63,68
+On-site,276,Business Analyst,SGS Technologie,0,IT Services and IT Consulting,41,64,70
+On-site,277,Business Analyst,ReachLocal India,0,Marketing Services,43,72,40
+On-site,278,Business Analyst,ShujaBITS Infotech Solutions Private Limited,0,.,44,80,71
+On-site,279,Business Analyst,Plaksha University,0,.,41,43,90
+On-site,280,Business Analyst,FCI CCM,0,Information Technology & Services,40,63,36
+On-site,281,Consultant,KPMG India,0,Business Consulting and Services,42,77,60
+On-site,282,Business Analyst,NielsenIQ,0,Information Services,37,77,70
+On-site,283,Business Analyst,18 steps consultants,0,.,47,69,34
+On-site,284,Data Analyst,Jobs for Humanity,0,Non-profit Organizations,51,44,59
+On-site,285,Other,Shri Ram Shiksha Mandir Sr. Sec School - India,0,.,47,68,55
+On-site,286,Analyst,Optiv,0,Computer and Network Security,37,53,70
+On-site,287,Analyst,HealthifyMe,200,Wellness and Fitness Services,45,63,53
+On-site,288,Data Analyst,Jobs for Humanity,0,Non-profit Organizations,43,75,54
+On-site,289,Analyst,Jobs for Humanity,0,Non-profit Organizations,36,72,56
+On-site,290,Analyst,Movate,0,IT Services and IT Consulting,45,81,59
+On-site,291,Web Developer,Supro Consulting,0,.,47,79,45
+On-site,292,Quality Analyst,Appinventiv,0,.,45,65,43
+On-site,293,Data Analyst,Jobs for Humanity,0,Non-profit Organizations,50,88,59
+On-site,294,Data Analyst,Infiniti Research Ltd.,0,Market Research,48,65,49
+On-site,295,Data Analyst,Qualicentric LLP,0,.,50,53,48
+On-site,296,Sales Executive,AKS WebSoft Consulting Pvt. Ltd.,0,.,46,54,60
+On-site,297,Sales Executive,TransPerfect,0,Translation and Localization,60,64,38
+On-site,298,Data Analyst,Northern Trust Corporation,0,Financial Services,41,49,72
+On-site,299,Database Developer,myKaarma,36,Motor Vehicle Manufacturing,36,60,56
+On-site,300,SQL Developer,Avestan Technologies,16,.,44,71,49
+On-site,301,SQL Developer,Avestan Technologies,14,.,43,64,62
+On-site,302,Data Analyst,Pine Labs,200,IT Services and IT Consulting,47,69,36
+On-site,303,Data Analyst,UST,200,IT Services and IT Consulting,45,69,70
+On-site,304,SQL Developer,Avestan Technologies,16,.,40,58,51
+On-site,305,Other,XCapitalIndia,11,.,50,66,58
+On-site,306,Blockchain Developer,Mobile Programming LLC,0,.,58,56,67
+On-site,307,Sales Executive,Mobile Programming LLC,0,.,38,67,28
+On-site,308,Data Analyst,Onward Technologies Limited,32,.,50,59,57
+On-site,309,Shopify Developer,Foxtale,7,.,40,53,64
+On-site,310,SQL Developer,Avestan Technologies,7,.,37,60,45
+On-site,311,Other Developer,Apptad Inc.,69,IT Services and IT Consulting,46,60,56
+On-site,312,Other Developer,UbGot Software Pvt. Ltd.,1,.,47,75,30
+On-site,313,Shopify Developer,Asatkalpa Consulting Pvt Ltd,15,Human Resources Services,55,58,59
+On-site,314,Data Analyst,Virtusa,83,IT Services and IT Consulting,48,59,32
+On-site,315,Salesforce Developer,Genpact,59,IT Services and IT Consulting,42,75,54
+On-site,316,SQL Developer,Opportunity One Step Solutions Private Limited,3,.,41,54,60
+On-site,317,Other,Tata Consultancy Services,35,IT Services and IT Consulting,45,54,57
+On-site,318,Other Developer,PwC,46,Accounting,47,68,67
+On-site,319,Other Developer,Absoft IT Solutions,16,.,37,82,60
+On-site,320,Data Analyst,Kinara Capital,96,Financial Services,43,55,104
+On-site,321,Data Analyst,ffreedom app,136,.,38,60,66
+On-site,322,Data Analyst,"Estuate, Inc.",28,.,48,74,87
+On-site,323,Data Analyst,IQ-EQ,3,Financial Services,52,66,72
+On-site,324,Other Developer,Ventures HRD Centre Private Limited,7,.,41,49,72
+On-site,325,Other Developer,Mobile Programming LLC,13,.,47,55,51
+On-site,326,Angular Developer,Tata Consultancy Services,15,IT Services and IT Consulting,38,60,48
+On-site,327,Data Analyst,Sight Spectrum,11,.,40,67,66
+On-site,328,Salesforce Developer,Purple Drive Technologies,39,.,41,51,70
+On-site,329,Other Developer,Itant,0,.,45,58,69
+On-site,330,Other Developer,CMA CGM Global Business Services (India),20,Maritime Transportation,41,74,83
+On-site,331,Node Js Developer,Avestan Technologies,18,.,47,50,46
+On-site,332,Other Developer,The IT Mind,11,.,43,61,72
+On-site,333,Other Developer,Akshaya Business IT solutions Pvt Ltd,0,.,48,62,76
+On-site,334,SQL Developer,Tata Consultancy Services,138,IT Services and IT Consulting,44,56,48
+On-site,335,Data Analyst,Changeleaders.in,1,Human Resources Services,39,62,78
+On-site,336,Python Developer,Protoporos Staffing Services Private Limited,14,Human Resources Services,40,66,50
+On-site,337,Data Analyst,AddRec Solutions Pvt. Ltd.,9,.,43,70,63
+On-site,338,Other Developer,Genpact,65,IT Services and IT Consulting,41,62,63
+On-site,339,PHP Developer,NetFillip Technologies Private Limited,8,.,49,54,66
+On-site,340,BackEnd Developer,EbizON,0,IT Services and IT Consulting,33,65,69
+On-site,341,Other Engineering,The Briminc,0,.,44,66,60
+On-site,342,Node Js Developer,thinkinnovationsconsultancy,4,.,39,63,37
+On-site,343,Other Developer,AutomationFactory.AI,7,.,53,61,52
+On-site,344,Golang Developer,"Josh Software, Inc.",16,.,49,90,26
+On-site,345,Data Analyst,Artha Solutions,16,.,50,65,80
+On-site,346,Data Analyst,YAKKAY Technologies,8,.,35,51,27
+On-site,347,Data Analyst,Flywire,76,Financial Services,46,53,54
+On-site,348,Other,"Cloudely, Inc",10,Information Services,48,65,47
+On-site,349,Data Analyst,Consus Global,15,.,45,49,77
+On-site,350,Other,Randstad India,26,.,43,76,52
+On-site,351,Data Analyst,Rebelliuz,6,.,40,71,54
+On-site,352,Golang Developer,Antino,9,.,33,59,42
+On-site,353,Data Analyst,Arus Info,56,.,45,53,73
+On-site,354,Other Developer,Onward Technologies Limited,4,.,44,63,69
+On-site,355,Other,SRS Infoway,2,.,50,64,48
+On-site,356,Angular Developer,Wings Tech,27,.,41,64,77
+On-site,357,Other Developer,ValueMomentum,0,.,41,56,51
+On-site,358,Data Analyst,Sweven Infotech,8,.,49,62,39
+On-site,359,Lead developer,DiLytics,5,.,38,74,80
+On-site,360,PHP Developer,Nexplace Info Private Limited,23,.,41,62,44
+On-site,361,Other Developer,CUBENANT,0,.,43,64,69
+On-site,362,Java Developer,Pattem Digital Technologies,3,.,44,67,63
+On-site,363,Other Developer,DosToCloud Solutions,3,.,43,66,82
+On-site,364,Other Engineering,TekWissen ®,3,Staffing and Recruiting,47,61,52
+On-site,365,Cloud Engineer,Perma Technologies,18,.,44,60,76
+On-site,366,Other Developer,NetConnectGlobal,1,.,56,69,61
+On-site,367,BackEnd Developer,91social,3,.,45,69,49
+On-site,368,Python Developer,Tamcherry - Zaportiv,1,Information Technology & Services,42,60,75
+On-site,369,Oracle Developer,Integra Micro Systems Pvt Ltd,29,.,37,63,50
+On-site,370,Other Developer,Technaureus Info Solutions Pvt. Ltd.,3,.,42,73,44
+On-site,371,Data Analyst,RiVi Consulting Group L.L.C,70,IT Services and IT Consulting,29,62,57
+On-site,372,Other Engineering,Mobile Programming LLC,0,.,45,72,69
+On-site,373,Golang Developer,KPR Techno Software Solutions Private Limited,19,.,46,76,37
+On-site,374,Python Developer,BondsIndia,1,.,35,57,50
+On-site,375,Salesforce Developer,Evoke HR Solutions Pvt. Ltd.,19,.,41,76,60
+On-site,376,Data Analyst,Verisk,200,Information Services,43,63,79
+On-site,377,Other Engineering,Others,6,.,40,78,63
+On-site,378,Python Developer,Gmware,19,.,42,52,74
+On-site,379,Data Analyst,Qualicentric LLP,51,.,55,81,78
+On-site,380,Data Analyst,Tata Consultancy Services,73,IT Services and IT Consulting,43,61,34
+On-site,381,Other Developer,Coforge,56,IT Services and IT Consulting,57,69,52
+On-site,382,Other Developer,RENOVISION AUTOMATION SERVICES PVT.LTD,5,.,43,71,59
+On-site,383,Other Developer,Phoenix Contact,0,.,42,55,30
+On-site,384,Other Developer,Odiware,0,.,40,58,18
+On-site,385,Data Analyst,Plexcel Info Systems Pvt Ltd,0,.,52,80,51
+On-site,386,Other Developer,CitJo,0,.,51,47,66
+On-site,387,Data Analyst,Inferenz,0,.,50,69,63
+On-site,388,DevOps Engineer,TekWissen ®,0,.,45,71,86
+On-site,389,Other Engineering,OptimHire,0,.,51,65,52
+On-site,390,Cloud Engineer,"Miracle Software Systems, Inc",0,.,34,55,67
+On-site,391,Cloud Engineer,Jobs for Humanity,0,Non-profit Organizations,46,57,70
+On-site,392,PHP Developer,Dotsquares,0,.,57,54,54
+On-site,393,Other Developer,Tata Consultancy Services,0,IT Services and IT Consulting,28,78,71
+On-site,394,Python Developer,VinCloud Solutions,0,.,34,58,83
+On-site,395,Mobile Application Developer,Colan Infotech Private Limited,0,.,53,74,57
+On-site,396,Other Engineering,Han Digital Solution,0,.,45,63,76
+On-site,397,Data Analyst,LTIMindtree,0,Information Technology & Services,39,56,75
+On-site,398,Other Developer,RAAPID.AI,0,.,49,72,34
+On-site,399,SQL Developer,TMV Global Inc,0,.,53,89,60
+On-site,400,Other Developer,Hexaware Technologies,0,IT Services and IT Consulting,45,66,80
+On-site,401,Cloud Engineer,Coredge.io,0,.,42,52,57
+On-site,402,Data Analyst,Terralogic,0,Information Technology & Services,45,47,64
+On-site,403,Other Developer,Trinity Technology Solutions LLC,0,.,32,74,64
+On-site,404,Other Developer,Quess Corp Limited,0,Business Consulting and Services,40,83,61
+On-site,405,Other Developer,"Pyramid Consulting, Inc",0,.,43,70,31
+On-site,406,Shopify Developer,Vrhunec IT Private Limited,0,.,42,82,48
+On-site,407,Other Developer,PRIMUS Global Technologies Pvt Ltd,0,.,51,63,51
+On-site,408,Blockchain Developer,BlockchainStaffingNinja,0,Staffing and Recruiting,43,70,81
+On-site,409,Other Developer,The Talent Keepers,0,.,41,65,65
+On-site,410,Data Analyst,Infosys BPM,0,IT Services and IT Consulting,46,64,45
+On-site,411,Software Testing,Glauben Technologies,0,.,44,52,80
+On-site,412,BackEnd Developer,Zensar Technologies,0,IT Services and IT Consulting,48,61,52
+On-site,413,Java Developer,TECHBRAWN,0,.,50,65,67
+On-site,414,Data Analyst,IndiaFirst Life,0,Insurance,43,71,58
+On-site,415,Linux Engineer,Mobile Programming LLC,0,.,45,48,22
+On-site,416,Other Engineering,Edlocus Solutions Private Limited,0,.,48,58,64
+On-site,417,Data Analyst,Cortex Consultants LLC,0,.,43,60,87
+On-site,418,Unity Developer,Digital Agents Interactive Pvt. Ltd.,0,.,52,66,25
+On-site,419,Other Developer,SKYLARK HR SOLUTIONS Pvt Ltd,0,.,51,79,63
+On-site,420,Data Analyst,BizAcuity,0,.,34,63,60
+On-site,421,.Net Developers,SRIJAN SPECTRUM PRIVATE LIMITED,0,.,45,78,56
+On-site,422,Other Developer,UST,0,IT Services and IT Consulting,47,53,37
+On-site,423,Other Engineering,iQuest Management Consultants,0,.,41,67,52
+On-site,424,Oracle Developer,Coforge,0,IT Services and IT Consulting,48,55,39
+On-site,425,BackEnd Developer,Infilon Technologies Pvt ltd,0,.,43,58,78
+On-site,426,Team Lead/ Project Lead,Zigsaw,0,.,52,61,33
+On-site,427,BackEnd Developer,Traident Brains Pvt Ltd,0,.,40,58,54
+On-site,428,Unity Developer,Anubudh (अनुबुद्ध),0,.,39,77,45
+On-site,429,Data Analyst,Asper.ai,0,Software Development,55,57,47
+On-site,430,Java Developer,IDESLABS PRIVATE LIMITED,0,IT Services and IT Consulting,49,51,37
+On-site,431,Cloud Engineer,Tata Consultancy Services,0,IT Services and IT Consulting,44,39,57
+On-site,432,.Net Developers,IDESLABS PRIVATE LIMITED,0,IT Services and IT Consulting,39,70,58
+On-site,433,Other,Mobile Programming LLC,0,IT Services and IT Consulting,34,56,70
+On-site,434,Data Analyst,MakeMyTrip,0,Software Development,45,76,66
+On-site,435,.Net Developers,Tata Consultancy Services,0,IT Services and IT Consulting,31,81,66
+On-site,436,Other Developer,People Impact,0,.,58,51,71
+On-site,437,Analyst,TechnoScience (Domnic Lewis International LLC),0,Staffing and Recruiting,40,86,60
+On-site,438,Other Developer,Studio Diseño + SDTECH,0,.,50,77,65
+On-site,439,Other,Techeva IT Solution Private Limited,0,.,49,43,66
+On-site,440,Vue.js Developer,Cloudium Software,0,.,41,81,69
+On-site,441,Software Engineer,TechSera,0,.,46,69,45
+On-site,442,Other Developer,Capgemini,0,IT Services and IT Consulting,45,69,54
+On-site,443,Other Developer,Kani Solutions Inc,0,.,48,73,62
+On-site,444,Cloud Engineer,Codal,0,IT Services and IT Consulting,37,53,50
+On-site,445,SQL Developer,Avaloq,0,Financial Services,39,59,56
+On-site,446,BackEnd Developer,Delta Air Lines,0,Airlines and Aviation,51,56,59
+On-site,447,DevOps Engineer,Nectar Emerging,0,.,47,56,92
+On-site,448,Unity Developer,OptimHire,0,.,46,63,74
+On-site,449,Data Analyst,Talentgigs,0,.,41,48,53
+On-site,450,Node Js Developer,Avestan Technologies,0,.,45,73,34
+On-site,451,Other,CaaStle,0,IT Services and IT Consulting,49,73,74
+On-site,452,Data Analyst,Randstad India,0,.,54,51,47
+On-site,453,Other Engineering,Nurture Itech,0,.,53,75,54
+On-site,454,Linux Engineer,Sugarbox,0,Technology Information and Internet,50,60,68
+On-site,455,DevOps Engineer,Tata Consultancy Services,0,IT Services and IT Consulting,35,66,66
+On-site,456,Other Developer,HEPL - A Cavinkare Group Company,0,.,55,57,40
+On-site,457,Other Developer,brigosha,0,.,39,51,80
+On-site,458,BackEnd Developer,Delta Air Lines,0,Airlines and Aviation,44,72,61
+On-site,459,Java Developer,Leventm Technologies Private Limited,0,.,44,56,61
+On-site,460,Other Engineering,SS INFORMATION SYSTEMS PRIVATE LIMITED,0,.,46,53,65
+On-site,461,Other Engineering,Info Origin Inc.,0,.,39,75,95
+On-site,462,Data Analyst,ShoreWise Consulting,0,.,39,62,44
+On-site,463,Other Developer,brigosha,0,.,40,76,82
+On-site,464,ReactJS Developer,Tata Consultancy Services,0,IT Services and IT Consulting,40,50,64
+On-site,465,Node Js Developer,W2S Solutions - IT Consulting Company,0,.,41,83,60
+On-site,466,Unity Developer,OptimHire,0,.,40,53,76
+On-site,467,Vue.js Developer,Mantra,0,.,41,65,74
+On-site,468,Game Developer,Quilt,0,.,42,64,59
+On-site,469,Data Analyst,Tata Consultancy Services,0,IT Services and IT Consulting,49,70,56
+On-site,470,Data Analyst,Seosaph-infotech,0,.,44,63,66
+On-site,471,Cloud Engineer,RCKR Software Pvt. Ltd.,0,.,39,66,54
+On-site,472,Node Js Developer,INTIGNIZ Solutions Pvt. Ltd.,0,.,50,74,55
+On-site,473,.Net Developers,ESSENWARE PRIVATE LIMITED,0,Information Technology & Services,44,77,76
+On-site,474,Software Engineer,Bhilwara Infotechnology Ltd,0,.,28,63,38
+On-site,475,Other Developer,PSI CRO AG,0,Pharmaceutical Manufacturing,41,54,94
+On-site,476,Oracle Developer,Emerson,0,Industrial Machinery Manufacturing,56,53,83
+On-site,477,Consultant,Luxoft,0,IT Services and IT Consulting,42,66,59
+On-site,478,Node Js Developer,Aayu Migration Consultants Private Limited,0,.,42,51,46
+On-site,479,Node Js Developer,Gateway Group of Companies,0,.,47,73,50
+Remote,480,Data Analyst,Crossover,200,IT Services and IT Consulting,,,
+Remote,481,Data Analyst,Crossover,184,IT Services and IT Consulting,,,
+Remote,482,Data Analyst,Uplers,200,IT Services and IT Consulting,,,
+Remote,483,Data Analyst,Crossover,200,IT Services and IT Consulting,,,
+Remote,484,Shopify Developer,Unitalks Technologies,22,.,,,
+Remote,485,Data Analyst,Tezra,29,.,,,
+Remote,486,Other Developer,Grow Your Staff,4,.,,,
+Remote,487,Salesforce Developer,ValueLabs,19,IT Services and IT Consulting,,,
+Remote,488,Golang Developer,Optimal Virtual Employee,14,.,,,
+Remote,489,Other Developer,CloudTrilogy,8,.,,,
+Remote,490,Salesforce Developer,Applicantz,21,Technology Information and Internet,,,
+Remote,491,Other Developer,Intellicloud Solutions,27,.,,,
+Remote,492,Salesforce Developer,Infogain,127,IT Services and IT Consulting,,,
+Remote,493,Salesforce Developer,Applicantz,27,Technology Information and Internet,,,
+Remote,494,Other,SRIK Consulting Services Pvt Ltd,0,.,,,
+Remote,495,Data Analyst,Techolution,200,IT Services and IT Consulting,,,
+Remote,496,Java Developer,TechoMinds Pvt Ltd,7,.,,,
+Remote,497,PowerApps Developer,Techtory,39,.,,,
+Remote,498,Data Analyst,EPAM Anywhere,9,IT Services and IT Consulting,,,
+Remote,499,Data Analyst,Uplers,8,IT Services and IT Consulting,,,
+Remote,500,Java Developer,"Cloudely, Inc",47,Information Services,,,
+Remote,501,Other,SigniTeq,8,.,,,
+Remote,502,Data Analyst,Uplers,22,IT Services and IT Consulting,,,
+Remote,503,Python Developer,Artmac,110,Software Development,,,
+Remote,504,Cloud Engineer,Uplers,52,IT Services and IT Consulting,,,
+Remote,505,Cloud Engineer,Uplers,38,IT Services and IT Consulting,,,
+Remote,506,Cloud Engineer,Uplers,122,IT Services and IT Consulting,,,
+Remote,507,Internships,Teachnook,8,.,,,
+Remote,508,Java Developer,Infosys,34,IT Services and IT Consulting,,,
+Remote,509,Other,Quest Global Technologies Ltd,3,.,,,
+Remote,510,Other Developer,Apptad Inc.,83,IT Services and IT Consulting,,,
+Remote,511,DevOps Engineer,codvo.ai,5,.,29,75,78
+Remote,512,C Developer,Crossover,2,IT Services and IT Consulting,34,74,89
+Remote,513,C Developer,Crossover,0,IT Services and IT Consulting,25,81,84
+Remote,514,C Developer,Crossover,1,IT Services and IT Consulting,50,70,74
+Remote,515,C Developer,Crossover,9,IT Services and IT Consulting,38,44,76
+Remote,516,Ruby on Rails Developer,Smart Working,5,.,35,72,90
+Remote,517,C Developer,Crossover,1,IT Services and IT Consulting,30,70,89
+Remote,518,Cloud Engineer,Virtusa,10,IT Services and IT Consulting,40,77,57
+Remote,519,C Developer,Crossover,3,IT Services and IT Consulting,31,67,69
+Remote,520,C Developer,Crossover,4,IT Services and IT Consulting,37,80,52
+Remote,521,Other Developer,eJAmerica,11,IT Services and IT Consulting,42,78,83
+Remote,522,C Developer,Crossover,3,IT Services and IT Consulting,44,81,69
+Remote,523,C Developer,Crossover,17,IT Services and IT Consulting,46,83,58
+Remote,524,Cloud Engineer,VAYUZ Technologies,80,IT Services and IT Consulting,32,69,57
+Remote,525,Data Analyst,Etech Global Services,14,.,41,49,81
+Remote,526,Other Engineering,Hyqoo,14,IT Services and IT Consulting,44,71,43
+Remote,527,Data Analyst,KG Invicta Services (KGiS),158,Outsourcing and Offshoring Consulting,33,80,64
+Remote,528,Machine Learning Engineer,Uplers,139,IT Services and IT Consulting,34,72,66
+Remote,529,Other Developer,Sedulous Tech Solutions (An ISO 9001:2015 Company),0,.,43,67,70
+Remote,530,Python Developer,Applicantz,42,Technology Information and Internet,35,68,56
+Remote,531,Other Developer,ICON Strategic Solutions,54,Pharmaceutical Manufacturing,37,74,75
+Remote,532,C Developer,Crossover,22,IT Services and IT Consulting,31,89,61
+Remote,533,Mobile Application Developer,SkillVertex,3,.,49,53,59
+Remote,534,Blockchain Developer,Trikon,28,.,39,65,69
+Remote,535,Full Stack Developer,DevLabs Alliance,1,.,41,62,83
+Remote,536,C Developer,Crossover,12,IT Services and IT Consulting,27,74,64
+Remote,537,Business Analyst,Kirat IT Solutions,52,.,35,73,57
+Remote,538,Unity Developer,Uplers,9,IT Services and IT Consulting,36,65,48
+Remote,539,Other Engineering,Crossover,4,IT Services and IT Consulting,43,86,70
+Remote,540,Blockchain Developer,Uplers,10,IT Services and IT Consulting,36,87,72
+Remote,541,Wordpress Developer,InstaBarcode,23,.,41,71,83
+Remote,542,Cloud Engineer,Hyqoo,0,IT Services and IT Consulting,37,77,57
+Remote,543,Python Developer,Uplers,70,IT Services and IT Consulting,37,65,63
+Remote,544,Python Developer,Uplers,87,IT Services and IT Consulting,29,62,91
+Remote,545,Python Developer,Crossover,13,IT Services and IT Consulting,28,89,66
+Remote,546,Business Analyst,Crossover,71,IT Services and IT Consulting,49,75,77
+Remote,547,Business Analyst,Crossover,96,IT Services and IT Consulting,25,70,70
+Remote,548,C Developer,Crossover,3,IT Services and IT Consulting,25,79,50
+Remote,549,C Developer,Crossover,2,IT Services and IT Consulting,29,84,54
+Remote,550,C Developer,Crossover,2,IT Services and IT Consulting,33,83,74
+Remote,551,C Developer,Crossover,1,IT Services and IT Consulting,34,80,65
+Remote,552,Other Developer,Cattle GURU,54,.,33,63,69
+Remote,553,Business Analyst,Applicantz,50,Technology Information and Internet,36,84,65
+Remote,554,C Developer,Crossover,1,IT Services and IT Consulting,43,82,61
+Remote,555,C Developer,Crossover,1,IT Services and IT Consulting,52,78,82
+Remote,556,Data Analyst,Applicantz,48,Technology Information and Internet,20,87,68
+Remote,557,C Developer,Crossover,1,IT Services and IT Consulting,34,86,87
+Remote,558,Python Developer,Crossover,0,IT Services and IT Consulting,26,47,78
+Remote,559,C Developer,Crossover,1,IT Services and IT Consulting,40,73,65
+Remote,560,Ruby on Rails Developer,HeaderLabs,17,.,36,63,68
+Remote,561,C Developer,Crossover,0,IT Services and IT Consulting,24,67,73
+Remote,562,Other Engineering,Crossover,2,IT Services and IT Consulting,21,76,90
+Remote,563,Python Developer,Crossover,9,IT Services and IT Consulting,36,74,73
+Remote,564,C Developer,Crossover,3,IT Services and IT Consulting,44,82,64
+Remote,565,Python Developer,Crossover,6,IT Services and IT Consulting,34,73,66
+Remote,566,Other Developer,Shakti Solutions,10,IT Services and IT Consulting,27,60,74
+Remote,567,C Developer,Crossover,3,IT Services and IT Consulting,31,78,61
+Remote,568,Other Developer,Applicantz,9,Technology Information and Internet,36,90,75
+Remote,569,Node Js Developer,OptimHire,25,.,32,78,67
+Remote,570,Other Developer,ELEVENTH DIMENSION  SOLUTIONS,31,.,35,71,68
+Remote,571,Data Analyst,Uplers,68,IT Services and IT Consulting,36,63,59
+Remote,572,Data Analyst,Uplers,147,IT Services and IT Consulting,25,55,57
+Remote,573,Data Analyst,Uplers,0,IT Services and IT Consulting,36,64,75
+Remote,574,Data Analyst,Uplers,19,IT Services and IT Consulting,40,63,74
+Remote,575,Data Analyst,Multplyr,200,Staffing and Recruiting,36,74,71
+Remote,576,Data Analyst,Luxoft,65,IT Services and IT Consulting,30,89,58
+Remote,577,Data Analyst,Uplers,24,IT Services and IT Consulting,38,89,74
+Remote,578,Salesforce Developer,"Cloudely, Inc",0,Information Services,33,68,80
+Remote,579,Internships,Coincent.ai,1,.,43,79,60
+Remote,580,Data Analyst,ValueLabs,0,IT Services and IT Consulting,32,67,62
+Remote,581,Salesforce Developer,Radioactive Technologies,53,.,41,58,86
+Remote,582,Other,Tata Consultancy Services,125,IT Services and IT Consulting,40,88,65
+Remote,583,Salesforce Developer,Applicantz,57,Technology Information and Internet,33,57,64
+Remote,584,Other Developer,MAGNUS,3,.,32,73,56
+Remote,585,Other Developer,MAGNUS,7,.,31,65,69
+Remote,586,Other Developer,IrisPeak Technologies Pvt. Ltd.,47,.,37,94,71
+Remote,587,Salesforce Developer,Programmers.io,95,IT Services and IT Consulting,41,58,71
+Remote,588,Data Analyst,ITSource Technologies Limited,4,.,36,52,61
+Remote,589,Other Developer,VRIZE,7,IT Services and IT Consulting,33,76,78
+Remote,590,Golang Developer,OntoBorn Technologies LLC,20,.,39,81,62
+Remote,591,Golang Developer,Haparz,20,.,37,68,68
+Remote,592,.Net Developers,W Beyond Private Limited,7,.,46,63,86
+Remote,593,Blockchain Developer,Gravity Infosolutions,18,IT Services and IT Consulting,24,73,69
+Remote,594,Data Analyst,Uplers,56,IT Services and IT Consulting,38,86,69
+Remote,595,Web Developer,Excelencia,0,.,47,77,66
+Remote,596,Other Developer,PPD,99,Research Services,23,71,66
+Remote,597,Other Developer,Mindtree,20,Information Technology & Services,41,80,58
+Remote,598,Data Analyst,Tata Consultancy Services,146,IT Services and IT Consulting,36,83,85
+Remote,599,Other Developer,Imetris Corporation,9,IT Services and IT Consulting,37,89,56
+Remote,600,Database Developer,Tide,19,Financial Services,32,65,73
+Remote,601,Salesforce Developer,Nagarro,55,IT Services and IT Consulting,43,67,46
+Remote,602,Data Analyst,Uplers,40,IT Services and IT Consulting,37,71,57
+Remote,603,Other Developer,Stratus,2,IT Services and IT Consulting,38,64,91
+Remote,604,Other Developer,WeHirect Recruitments,4,.,34,72,81
+Remote,605,Other Developer,Tata Consultancy Services,200,IT Services and IT Consulting,36,66,88
+Remote,606,Data Analyst,Tata Consultancy Services,115,IT Services and IT Consulting,35,84,63
+Remote,607,Other Developer,Teka XR,8,.,37,78,51
+Remote,608,Salesforce Developer,Uplers,11,IT Services and IT Consulting,49,90,66
+Remote,609,Blockchain Developer,TechAsia Lab,39,.,44,94,101
+Remote,610,Oracle Developer,Object Edge,19,.,27,77,49
+Remote,611,Data Analyst,Uplers,17,IT Services and IT Consulting,38,68,89
+Remote,612,Cloud Engineer,Uplers,176,IT Services and IT Consulting,21,84,49
+Remote,613,Salesforce Developer,Uplers,10,IT Services and IT Consulting,35,50,66
+Remote,614,Salesforce Developer,Salorix Consulting,200,.,34,75,74
+Remote,615,Salesforce Developer,Procyon Technostructure,200,Information Technology & Services,36,74,64
+Remote,616,Other Developer,Deltacubes,17,.,31,83,64
+Remote,617,Other Developer,Quess IT Staffing,8,Staffing and Recruiting,34,101,55
+Remote,618,Other Developer,ValueLabs,200,IT Services and IT Consulting,22,84,63
+Remote,619,Cloud Engineer,Programmers.io,17,IT Services and IT Consulting,32,65,67
+Remote,620,Cloud Engineer,Uplers,76,IT Services and IT Consulting,46,84,78
+Remote,621,Salesforce Developer,MicroStrategy,200,Software Development,25,61,41
+Remote,622,Salesforce Developer,Rayden Interactive,200,IT Services and IT Consulting,33,74,63
+Remote,623,Wordpress Developer,a2z YOUTHSOLUTION,17,.,37,86,65
+Remote,624,Power BI Developer,Saviant Consulting,200,IT Services and IT Consulting,39,108,68
+Remote,625,Cloud Engineer,Uplers,48,IT Services and IT Consulting,37,66,71
+Remote,626,C Developer,Crossover,3,IT Services and IT Consulting,28,67,71
+Remote,627,Business Analyst,eClinicalWorks,0,Software Development,39,66,54
+Remote,628,Business Analyst,Siaraa Technologies,42,.,33,69,71
+Remote,629,Business Analyst,Rapid Circle,65,IT Services and IT Consulting,24,65,83
+Remote,630,Search Engine Optimization,Uplers,0,IT Services and IT Consulting,36,88,62
+Remote,631,Python Developer,Biorasi,0,Research Services,32,72,51
+Remote,632,Other Developer,RMV Workforce Corp,0,.,31,62,63
+Remote,633,Project Manager,Cimpress India,0,Technology Information and Internet,37,61,61
+Remote,634,Project Manager,QuillBot,0,Software Development,47,66,86
+Remote,635,Digital Marketing,Uplers,0,IT Services and IT Consulting,33,75,80
+Remote,636,Cloud Engineer,Hyqoo,0,IT Services and IT Consulting,43,73,66
+Remote,637,DevOps Engineer,VARCOS Consulting LLP,0,IT Services and IT Consulting,35,82,86
+Remote,638,Other Engineering,Trust Wallet,0,Software Development,16,79,69
+Remote,639,Full Stack Developer,Smart Working,0,Software Development,31,77,69
+Remote,640,DevOps Engineer,"No Limit Technology, Inc.",0,IT Services and IT Consulting,42,76,62
+Remote,641,Project Manager,Quectel,0,Wireless Services,41,72,75
+Remote,642,Full Stack Developer,Infosys,0,IT Services and IT Consulting,22,69,77
+Remote,643,Blockchain Developer,Uplers,0,IT Services and IT Consulting,32,72,79
+Remote,644,Java Developer,CodersBrain,0,IT Services and IT Consulting,31,63,68
+Remote,645,Business Analyst,Syneos Health Commercial Solutions,0,Biotechnology Research,38,74,73
+Remote,646,Business Analyst,Stratus,0,IT Services and IT Consulting,47,70,72
+Remote,647,Business Analyst,bluCognition,0,Information Technology & Services,37,78,82
+Remote,648,Business Analyst,MTX Group,0,Information Technology & Services,18,46,65
+Remote,649,Business Analyst,"Eyeota, a Dun & Bradstreet company",0,Advertising Services,29,61,67
+Remote,650,SAP Developer,Applicantz,0,Technology Information and Internet,35,81,88
+Remote,651,Data Analyst,NuvoRetail,0,Business Consulting and Services,18,85,69
+Remote,652,Data Analyst,Hyqoo,200,IT Services and IT Consulting,26,92,66
+Remote,653,Data Analyst,"Surya Systems, Inc",79,IT Services and IT Consulting,41,67,76
+Remote,654,Other,Team HR,10,.,35,56,71
+Remote,655,Analyst,Cubical Operations,146,.,50,80,69
+Remote,656,Salesforce Developer,Tamcherry - Zaportiv,87,Information Technology & Services,42,77,72
+Remote,657,Shopify Developer,ultraGenius,18,.,29,92,69
+Remote,658,Salesforce Developer,ValueLabs,3,IT Services and IT Consulting,28,86,67
+Remote,659,Other Developer,"oAppsNET Group, Specialists in ERP Transformation",5,.,40,71,69
+Remote,660,Golang Developer,Bynebits - CMMI Level 3 and ISO Certified Company,16,.,28,74,73
+Remote,661,Golang Developer,WILLWARE TECHNOLOGIES,6,.,49,56,81
+Remote,662,Snowflake Developer,Live Connections,17,.,31,77,85
+Remote,663,PowerApps Developer,Technocrats Domain Inc,34,.,39,81,65
+Remote,664,Other Developer,KloudPortal - SaaS | Product Marketing,1,IT Services and IT Consulting,24,72,82
+Remote,665,Golang Developer,Gophers Lab,7,.,25,63,77
+Remote,666,Golang Developer,PamTen Inc,12,.,32,74,68
+Remote,667,Salesforce Developer,Zephyrus Inc.,52,.,42,67,79
+Remote,668,Blockchain Developer,Zealogics Inc,2,Information Technology & Services,46,70,76
+Remote,669,Salesforce Developer,Apex IT,19,.,38,67,53
+Remote,670,Angular Developer,Business Tree Consultancy,1,.,38,50,66
+Remote,671,Oracle Developer,Mastek,9,IT Services and IT Consulting,41,77,89
+Remote,672,Data Analyst,SGB IT Services,21,.,31,50,70
+Remote,673,Other Developer,Tata Consultancy Services,106,IT Services and IT Consulting,30,100,64
+Remote,674,Oracle Developer,ValueLabs,4,IT Services and IT Consulting,35,66,72
+Remote,675,Data Analyst,Tecruite.com,16,.,18,99,72
+Remote,676,Java Developer,IDEA HELIX,11,IT Services and IT Consulting,29,76,71
+Remote,677,Salesforce Developer,Applicantz,9,Technology Information and Internet,32,66,55
+Remote,678,Full Stack Developer,C2 Digital,2,.,40,58,60
+Remote,679,Angular Developer,Datastack Technologies,7,.,28,87,79
+Remote,680,Data Analyst,Sweven Infotech,12,.,34,70,75
+Remote,681,Other Developer,Atheer Global Solutions,0,.,27,45,72
+Remote,682,Salesforce Developer,Primus Software Corporation,19,.,32,48,83
+Remote,683,Cloud Engineer,Turing,18,.,27,90,79
+Remote,684,Cloud Engineer,F13 Technologies,173,.,28,61,73
+Remote,685,Data Analyst,Lucidspire,43,Information Services,31,68,76
+Remote,686,Data Analyst,Uplers,39,IT Services and IT Consulting,38,58,72
+Remote,687,Other Developer,Smartedge Solutions,14,.,38,83,50
+Remote,688,Oracle Developer,Arbelos Solutions,3,.,31,88,72
+Remote,689,Data Analyst,Uplers,20,IT Services and IT Consulting,43,97,78
+Remote,690,Other Developer,Grow Your Staff,2,.,43,68,58
+Remote,691,Data Analyst,Tata Consultancy Services,96,IT Services and IT Consulting,37,78,82
+Remote,692,Other Engineering,GuJ Tech,3,.,44,81,78
+Remote,693,Other Developer,Rapid Technologies,1,.,25,87,58
+Remote,694,C Developer,Crossover,0,IT Services and IT Consulting,37,64,75
+Remote,695,Cloud Engineer,Uplers,0,IT Services and IT Consulting,37,63,64
+Remote,696,Python Developer,Spatic,0,.,31,85,86
+Remote,697,Other Developer,Stratus,0,IT Services and IT Consulting,39,74,58
+Remote,698,Other Developer,engineersmind,0,.,37,79,61
+Remote,699,Blockchain Developer,Knowledge Bridge Consulting Inc,0,.,49,89,81
+Remote,700,Data Analyst,Innovation Incubator Advisory,0,.,30,77,66
+Remote,701,Data Analyst,Innovation Incubator Advisory,0,.,33,84,59
+Remote,702,Python Developer,Techolution,0,IT Services and IT Consulting,37,82,68
+Remote,703,C Developer,Crossover,0,IT Services and IT Consulting,34,79,67
+Remote,704,SAP Developer,USR SYSTEMS LLC,0,.,44,85,78
+Remote,705,Java Developer,wowJobs,0,.,28,74,66
+Remote,706,Other Developer,Stratus,0,IT Services and IT Consulting,27,79,64
+Remote,707,Drupal Developer,ValueLabs,0,IT Services and IT Consulting,39,62,87
+Remote,708,C Developer,Crossover,0,IT Services and IT Consulting,45,75,64
+Remote,709,C Developer,Crossover,0,IT Services and IT Consulting,40,72,81
+Remote,710,C Developer,Crossover,0,IT Services and IT Consulting,38,48,69
+Remote,711,Cloud Engineer,VHR Solutions Private Limited,0,.,36,71,82
+Remote,712,Other Developer,ACMO,0,.,43,40,69
+Remote,713,C Developer,Crossover,0,IT Services and IT Consulting,43,66,62
+Remote,714,Other Developer,Stralto Global,0,.,42,80,54
+Remote,715,Unity Developer,AppCake,0,.,31,79,78
+Remote,716,Other Developer,IBO Wholesale,0,.,30,40,75
+Remote,717,Data Analyst,EPAM Anywhere,0,IT Services and IT Consulting,50,71,60
+Remote,718,Other Developer,Orion Innovation,0,IT Services and IT Consulting,33,68,65
+Remote,719,Other Developer,Neoarchi,0,.,40,73,63
+Remote,720,Other Engineering,Hyqoo,0,IT Services and IT Consulting,39,55,74
+Remote,721,Unity Developer,AppCake,0,.,39,88,78
+Remote,722,Other Developer,EpitronX,0,.,45,66,59
+Remote,723,Other Developer,Stratus,0,IT Services and IT Consulting,28,57,76
+Remote,724,SQL Developer,Innovya Technologies,0,.,39,81,68
+Remote,725,PHP Developer,Proponent Technologies,0,.,44,69,79
+Remote,726,Data Analyst,Innovation Incubator Advisory,0,.,37,79,70
+Remote,727,Data Analyst,Rootshell Inc,0,IT Services and IT Consulting,38,75,66
+Remote,728,Data Analyst,GLOBAL CONNECT TECH SOLUTIONS,0,.,34,36,72
+Remote,729,Other Developer,Neoarchi,0,.,26,74,59
+Remote,730,Other,OpenTeQ,0,.,28,76,81
+Remote,731,Python Developer,Virtusa,0,IT Services and IT Consulting,33,72,65
+Remote,732,Angular Developer,Infosys,0,IT Services and IT Consulting,26,83,76
+Remote,733,Data Analyst,IRIS Software Group,0,Software Development,37,63,72
+Remote,734,Business Analyst,Crossover,0,IT Services and IT Consulting,40,75,60
+Remote,735,Other Developer,Quest Global Technologies Ltd,0,.,40,74,82
+Remote,736,Business Analyst,Crossover,0,IT Services and IT Consulting,37,54,60
+Remote,737,Unity Developer,Uplers,0,IT Services and IT Consulting,30,49,68
+Remote,738,Business Analyst,Crossover,0,IT Services and IT Consulting,33,70,68
+Remote,739,DevOps Engineer,Headstrt,0,.,38,51,49
+Remote,740,Database Developer,Cloudstaff,0,.,25,66,67
+Remote,741,Data Analyst,INNOVER GLOBAL INC,0,.,44,69,77
