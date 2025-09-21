@@ -1,6 +1,7 @@
 # Projects by Hong Jing Jay
 
 A portfolio of data analytics, machine learning, and dashboarding projects developed throughout academic studies, datathons, internships, and self-driven work. Highlights include forecasting models, sentiment & trend analysis, and interactive dashboards built with Power BI and Python.
+
 **Note on Data Availability**  
 These projects are shared to showcase my work in data analytics and machine learning.  
 Please note that some Python/Jupyter notebooks may not be fully executable because the source datasets are not publicly available.  
